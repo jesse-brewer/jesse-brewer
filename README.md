@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Jesse
 
-<!--
-**jesse-brewer/jesse-brewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst working with financial and parcel freight data, cost and revenue analysis, and process automation.
 
-Here are some ideas to get you started:
+**Tools:** Python (pandas, NumPy) · SQL · Excel · Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- Automating high-volume invoice validation and reporting.
+- Designing and building applications to support cost analysts
+- Database design and management
+
+### Projects
+**[fx-hedge-comparison](link)** — Scenario model comparing par forward vs capped forward hedging strategies across a range of spot rates, showing break-even points and P&L under each. Built to support hedging decisions for AUD liabilities.
