@@ -2,7 +2,7 @@
 
 Data analyst working with financial and parcel freight data.
 
-**Tools:** Python (pandas, NumPy) · SQL · Excel · Power BI
+**Tools:** Python (Pandas, NumPy) · SQL · Excel · Power BI
 
 ### What I work on
 - Automating high-volume invoice validation and reporting
